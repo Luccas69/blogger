@@ -1,7 +1,5 @@
 import Cabecalho from "@/components/Cabecalho";
-import Card from "@/components/Card";
-import ListCard from "@/components/ListCard ";
-
+import Card from '@/components/Card ';
 
 export default function Home() {
   return (
