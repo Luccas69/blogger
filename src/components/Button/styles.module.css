@@ -3,15 +3,16 @@
     align-items: center;
     justify-content: center;
     margin-right: 5vh;
-    background-color: #fff;
+    background-color: #000;
+    color: #FFFFFF;
     border: 1px solid #e7e7e7;
-    border-radius: 5px;
-    color: #333;
+    border-radius: 20px;
     cursor: pointer;
-    font-size: 14px;
+    font-size: 1.5rem;
     font-weight: 600;
-    padding: 1vh 2vh;
+    padding: 2vh 2vh;
     text-align: center;
     text-decoration: none;
     transition: all 0.2s ease-in-out;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
