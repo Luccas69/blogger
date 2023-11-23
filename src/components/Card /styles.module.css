@@ -1,7 +1,32 @@
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.imagem {
+    border-radius: 20px;
+    margin: 2vh;
+    margin-bottom: 20px;
+}
 .card {
     background-color: #fff;
-    border-radius: 5px;
+    border-radius: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    padding: 15px;
+    padding: 2vh;
+    margin: 2vh;
     margin-bottom: 20px;
+    width: 60%;
+}
+
+.card h1 {
+    font-weight: 600;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+.card p {
+    font-size: 14px;
+    color: #777;
+    line-height: 20px;
+    text-align: justify;
 }
